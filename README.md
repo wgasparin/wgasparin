@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![Go Interview Practice Achievement](https://raw.githubusercontent.com/RezaSi/go-interview-practice/main/badges/wgasparin.svg)](https://github.com/RezaSi/go-interview-practice)
+
+
+
 <!--
 **wgasparin/wgasparin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
